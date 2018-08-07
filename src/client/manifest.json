@@ -1,0 +1,21 @@
+{
+  "name": "questionnaire-renderer",
+  "short_name": "questionnaire-renderer",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg-xml",
+      "sizes": "144x144"
+    },
+    {
+      "src": "favicon.svg",
+      "type": "image/svg-xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e3e3e3",
+  "theme_color": "#e3e3e3"
+}
